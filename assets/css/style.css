@@ -1,0 +1,33 @@
+.hide {
+    display: none;
+}
+.left {
+    float: left;
+    width: 100px;
+    height: 50px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid white;
+    background-color: aqua;
+}
+.right {
+    float: right;
+    width: 100px;
+    height: 50px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid white;
+    background-color: aqua;
+}
+.clear {
+    clear: both;
+}
+#reset-container, h1 {
+    text-align: center;
+    background-color: aqua;
+    color: black;
+}
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
